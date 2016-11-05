@@ -1,0 +1,8 @@
+header {
+	background:#2f2f2f;
+	color:#fff;
+}
+
+header > div > div > div > h1 {
+	font-size:50px;
+}
